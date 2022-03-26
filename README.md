@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kamaalm/az400/_apis/build/status/kamaaldevops.pipelines-java?branchName=master)](https://dev.azure.com/kamaalm/az400/_build/latest?definitionId=20&branchName=master)
 
 # Contributing
 
